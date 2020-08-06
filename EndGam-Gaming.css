@@ -1,0 +1,251 @@
+/* NAVBAR  */
+
+.carousel-item {
+    height: 100vh;
+    min-height: 900px;
+    background-size: cover;
+    background-position: center;
+    /* background: no-repeat center center scroll; */
+}
+
+.Navbar .bgrn {
+    background-color: black;
+}
+
+.Navbar #nbn {
+    color: white;
+    padding: 1rem;
+}
+
+.Navbar #game {
+    font-size: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Navbar .lead {
+    color: gray;
+    font-size: 25px;
+}
+
+.Navbar #buton {
+    width: 200px;
+    height: 65px;
+    font-size: 15px;
+    box-shadow: 15px 15px 4px rgb(177, 12, 177);
+}
+
+
+/* CONTENT 1 */
+
+.content {
+    background-color: #0c062e;
+    color: white;
+    padding: 3rem;
+    border-top: 4px solid rgb(177, 12, 177);
+}
+
+.content #ctt {
+    color: purple;
+}
+
+.content #content {
+    color: #6c757d;
+}
+
+
+/* CONTENT2  */
+
+.content1 {
+    background: linear-gradient(45deg, #501755 0%, #2d1854 100%);
+    color: white;
+    padding-top: 4rem;
+    min-height: 1400px;
+}
+
+.content1 .btn {
+    background-color: purple;
+    color: white;
+    width: 130px;
+    height: 40px;
+}
+
+.content1 #lates {
+    margin-top: 5rem;
+}
+
+.content1 #spn {
+    color: rgb(165, 59, 165);
+}
+
+.content1 #p2 {
+    font-size: 25px;
+}
+
+.content1 #p3 {
+    color: gray;
+}
+
+.content1 #p4 {
+    color: white;
+    text-decoration: none;
+}
+
+.content1 #h5 {
+    text-align: center;
+}
+
+.content1 #p {
+    color: gray;
+    font-size: 13px;
+}
+
+.content1 #p0 {
+    font-size: 16px;
+}
+
+.content1 .card {
+    background-color: #34164B;
+}
+
+.content1 #sd {
+    color: gray;
+    text-decoration: none;
+}
+
+
+/* CONTENT3 */
+
+.content2 {
+    background-image: url(./img/promo-bg.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.content2 p {
+    text-align: center;
+    padding-top: 20%;
+}
+
+.content2 h1 {
+    color: white;
+    margin-top: 6rem;
+}
+
+.content2 h3 {
+    color: darkgrey;
+    font-size: 20px;
+}
+
+
+/* CONTENT4  */
+
+.content3 #content3 {
+    background-image: url(./img/featured-bg.jpg);
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+.content3 #content31 {
+    padding: 4rem;
+}
+
+.content3 #content31 span {
+    color: purple;
+}
+
+.content3 #pq {
+    color: #68647d;
+    font-size: 18px;
+}
+
+.content3 #pq1 {
+    color: #68647d;
+    ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.content3 #content31 h1 {
+    font-size: 60px;
+}
+
+.content3 #content32 {
+    color: black;
+    text-decoration: none;
+}
+
+
+/* CONTENT5  */
+
+.content4 {
+    background: linear-gradient(to right, #3e0f3d 0%, #1c0f3b 100%);
+    color: white;
+    min-height: 250px;
+    padding: 8rem;
+}
+
+.content4 h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+.content4 input.untukInput2 {
+    border-bottom: 2px solid white;
+    width: 700px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.content4 #content4 {
+    margin-top: 8rem;
+}
+
+.content4 #content41 {
+    margin-top: 5rem;
+    text-align: right;
+}
+
+.content4 .btn-light {
+    width: 200px;
+    height: 70px;
+    box-shadow: 15px 15px 6px 1px rgb(165, 59, 165);
+}
+
+
+/* CONTENT6 */
+
+.content5 {
+    background-color: #330d38;
+    /* padding: 4rem; */
+}
+
+.content5 #ctnt5 {
+    text-align: center;
+    padding: 2rem;
+    color: white;
+}
+
+.content5 span {
+    padding: 1.5rem;
+}
+
+.content5 #span {
+    text-decoration: none;
+    color: white;
+}
+
+.content5 #logoa {
+    color: white;
+    font-size: 10px;
+}
+
+.content5 #logo:hover {
+    border-radius: 50%;
+    background-color: rgb(165, 59, 165);
+    height: 10px;
+}
